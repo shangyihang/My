@@ -1,11 +1,10 @@
 /*
- * @Author: sunshiynog
- * @Date: 2022-05-30 15:35:40
- * @LastEditTime: 2023-03-26 21:12:12
- * @LastEditors: hankaibo hankaibo@thtf.com.cn
- * @Description: 设置 element-ui table 的最大高度
+ * @Author: [shangze]
+ * @Date: 2023-10-23 15:18:37
+ * @LastEditors: [shangze]
+ * @LastEditTime: 2023-11-03 09:41:13
+ * @Description:
  */
-
 import { addResizeListener, removeResizeListener } from 'element-ui/src/utils/resize-event';
 
 const doResize = async (el, binding, vnode) => {
