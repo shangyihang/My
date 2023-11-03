@@ -1,10 +1,3 @@
-/*
- * @Author: hankaibo hankaibo@thtf.com.cn
- * @Date: 2022-07-11 10:01:33
- * @LastEditors: hankaibo hankaibo@thtf.com.cn
- * @LastEditTime: 2022-07-13 17:35:55
- * @Description:
- */
 const mousedownOutside = {
   // 初始化指令
   bind(el, binding) {

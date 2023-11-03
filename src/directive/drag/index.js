@@ -1,10 +1,3 @@
-/*
- * @Author: hankaibo hankaibo@thtf.com.cn
- * @Date: 2022-11-01 19:25:11
- * @LastEditors: yutao yutao@thtf.com.cn
- * @LastEditTime: 2023-08-07 10:25:31
- * @Description:
- */
 export default {
   inserted(el, binding) {
     const body = document.querySelector('body');

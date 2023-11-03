@@ -1,11 +1,3 @@
-/*
- * @Author: gengkaihui
- * @Date: 2021-12-16 14:31:21
- * @LastEditTime: 2022-07-23 10:42:36
- * @LastEditors: Yueenfan
- * @Description: 单元格宽度自适应，单行显示
- * @FilePath: \zhtj-web\src\directive\tableFit\index.js
- */
 function adjustColumnWidth(table, vnode) {
   // 中文和全角正则
   // Use a regular expression literal instead of the 'RegExp' constructor  prefer-regex-literals 推荐使用正则表达式而不是'RegExp' 构造函数

@@ -1,11 +1,3 @@
-/*
- * @Author: liushengyan
- * @Date: 2022-06-21 13:45:02
- * @LastEditTime: 2023-02-11 17:11:57
- * @LastEditors: hankaibo hankaibo@thtf.com.cn
- * @Descripttion:
- * @Description:
- */
 import hasRole from './permission/hasRole';
 import hasPermi from './permission/hasPermi';
 import hasSecret from './permission/hasSecret';

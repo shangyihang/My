@@ -1,11 +1,3 @@
-/*
- * @Date: 2023-07-27 09:04:22
- * @LastEditors: yutao yutao@thtf.com.cn
- * @LastEditTime: 2023-09-01 16:13:46
- * @FilePath: \web-stat-organization\src\directive\dialog\drag.js
- * @Author: yutao yutao@thtf.com.cn
- * @Description:
- */
 /**
  * v-dialogDrag 弹窗拖拽，为 element-ui 的对话框组件添加可拖拽功能。
  * Copyright (c) 2022 thtf

@@ -1,10 +1,3 @@
-/*
- * @Author: Yueenfan
- * @Date: 2022-07-11 20:10:56
- * @LastEditors: tanshaobo tanshaobo@thtf.com.ccn
- * @LastEditTime: 2023-08-23 13:46:02
- * @Description:
- */
 /**
  * v-hasPermi 操作权限处理
  * Copyright (c) 2022 thtf

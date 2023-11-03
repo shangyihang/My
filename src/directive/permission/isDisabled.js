@@ -1,10 +1,3 @@
-/*
- * @Author: hankaibo hankaibo@thtf.com.cn
- * @Date: 2022-11-01 19:25:11
- * @LastEditors: hankaibo hankaibo@thtf.com.cn
- * @LastEditTime: 2023-02-23 13:43:53
- * @Description:
- */
 /**
  * v-isDisabled 操作权限处理，当没有相应权限时，禁用其状态
  * Copyright (c) 2022 thtf
